@@ -1,0 +1,5 @@
+﻿  ProtPas.cpp
+C:\Users\GHOST\Desktop\code\ProtPas\ProtPas.cpp(285,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  ProtPas.vcxproj -> C:\Users\GHOST\Desktop\code\ProtPas\x64\Debug\ProtPas.exe
